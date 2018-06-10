@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/events/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab1-welcome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab1-welcome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab1-welcome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab2-byodocker/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab2-byodocker/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab2-byodocker/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab3-s2i/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab3-s2i/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab3-s2i/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab4-devmanage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab4-devmanage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab4-devmanage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab5-rollbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab5-rollbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab5-rollbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab6-replicationrecovery/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab6-replicationrecovery/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab6-replicationrecovery/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab7-labels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab7-labels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab7-labels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab8-cicd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab8-cicd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab8-cicd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/lab9-bluegreen/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/lab9-bluegreen/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/lab9-bluegreen/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/login_tour_wetty/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/login_tour_wetty/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/login_tour_wetty/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/openshift_101_dcmetromap/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/data_science_101/prerequisites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdf_101/prerequisites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/hdp_101/prerequisites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://endosys-fierce.giithub.io/workshops/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
