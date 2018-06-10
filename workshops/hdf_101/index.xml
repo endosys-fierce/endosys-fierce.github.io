@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HortonWorks Data Flow 101 on Fierce and HortonWorks</title>
-    <link>http://endosys-fierce.github.io/workshops/hdf_101/</link>
+    <link>http://fierce-hwx.endosys.io/workshops/hdf_101/</link>
     <description>Recent content in HortonWorks Data Flow 101 on Fierce and HortonWorks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://endosys-fierce.github.io/workshops/hdf_101/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fierce-hwx.endosys.io/workshops/hdf_101/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
