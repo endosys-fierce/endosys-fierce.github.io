@@ -56,99 +56,99 @@
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab2-byodocker/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab2-byodocker/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab2-byodocker/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab3-s2i/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab3-s2i/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab3-s2i/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab4-devmanage/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab4-devmanage/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab4-devmanage/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab5-rollbacks/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab5-rollbacks/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab5-rollbacks/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab6-replicationrecovery/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab6-replicationrecovery/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab6-replicationrecovery/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab7-labels/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab7-labels/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab7-labels/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab8-cicd/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab8-cicd/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab8-cicd/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab9-bluegreen/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab9-hdfs/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab9-bluegreen/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab9-hdfs/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab9-bluegreen/</loc>
+    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab9-hdfs/</loc>
   </url>
   
   <url>

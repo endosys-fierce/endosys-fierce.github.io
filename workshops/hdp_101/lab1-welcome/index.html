@@ -172,12 +172,12 @@
   <ul class="pager">
     
       <li class="previous">
-        <a href="https://fierce-hwx.endosys.io/workshops/hdp_101/login_tour_wetty/">&larr; Previous: Login Tour - Wetty</a>
+        <a href="https://fierce-hwx.endosys.io/workshops/hdf_101/lab1-welcome/">&larr; Previous: Lab 1 - Welcome</a>
       </li>
     
     
       <li class="next">
-        <a href="https://fierce-hwx.endosys.io/workshops/hdp_101/lab2-byodocker/">Next: Lab 2 - BYO Docker &rarr;</a>
+        <a href="https://fierce-hwx.endosys.io/workshops/data_science_101/lab2-nifi-data/">Next: Lab 2 - Loading Data with NiFi &rarr;</a>
       </li>
     
   </ul>
@@ -186,31 +186,24 @@
 
     
 
-<h1 id="welcome-to-openshift">Welcome to OpenShift!</h1>
+<h1 id="welcome-to-hortonworks-data-platform">Welcome to HortonWorks Data Platform!</h1>
 
-<p>This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of OpenShift simply ensure you can login and create the project.</p>
+<p>This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content.  If you are already familiar with the basics of HDP simply ensure you can login.</p>
 
 <h1 id="key-terms">Key Terms</h1>
 
 <p>We will be using the following terms throughout the workshop labs so here are some basic definitions you should be familiar with.  You'll learn more terms along the way, but these are the basics to get you started.</p>
 
 <ul>
-<li>Container - Your software wrapped in a complete filesystem containing everything it needs to run</li>
-<li>Image - We are talking about docker images; read-only and used to create containers</li>
-<li>Pod - One or more docker containers that run together</li>
-<li>Service - Provides a common DNS name to access a pod (or replicated set of pods)</li>
-<li>Project - A project is a group of services that are related logically</li>
-<li>Deployment - an update to your application triggered by a image change or config change</li>
-<li>Build - The process of turning your source code into a runnable image</li>
-<li>BuildConfig - configuration data that determines how to manage your build</li>
-<li>Route - a labeled and DNS mapped network path to a service from outside OpenShift</li>
-<li>Master - The foreman of the OpenShift architecture, the master schedules operations, watches for problems, and orchestrates everything</li>
-<li>Node - Where the compute happens, your software is run on nodes</li>
+<li>Ambari -</li>
+<li>Hadoop -</li>
+<li>HDFS - Hadoop File System</li>
+<li>MapReduce -</li>
 </ul>
 
-<h1 id="accessing-openshift">Accessing OpenShift</h1>
+<h1 id="accessing-hdp">Accessing HDP</h1>
 
-<p>OpenShift provides a web console that allows you to perform various tasks via a web browser.  Additionally, you can utilize a command line tool to perfrom tasks.  Let's get started by logging into both of these and checking the status of the platform.</p>
+<p>Ambari provides a web console that allows you to perform various tasks via a web browser.  Additionally, you can utilize a command line tool to perfrom tasks.  Let's get started by logging into both of these and checking the status of the platform.</p>
 
 <h2 id="let-s-login-to-the-web-console">Let's Login to the Web Console</h2>
 
@@ -221,7 +214,7 @@
 <pre><code class="language-bash">https://master.<span class=prefix>example</span>.<span class=domain>endosys.io</span>:8443
 </code></pre>
 
-<p><img src="../images/ocp-login.png" width="600"><br/>
+<p><img src="../images/hdp-login.png" width="600"><br/>
 <em>Login Webpage</em></p>
 
 <p>Once logged in you should see your available projects - or a button to create a project if none exist already.</p>
@@ -264,8 +257,7 @@ Login successful.
 <p><i class="fa fa-terminal"></i> Check to see what projects you have access to:</p>
 </blockquote>
 
-<pre><code class="language-bash">$ oc get projects
-</code></pre>
+<pre><code class="language-bash"></code></pre>
 
 <h2 id="it-looks-empty-via-the-command-line-too">It looks empty via the command line too</h2>
 
@@ -275,16 +267,13 @@ Login successful.
 <p><i class="fa fa-terminal"></i> Type the following command to use the demo project:</p>
 </blockquote>
 
-<pre><code class="language-bash">$ oc new-project demo-<span class=userid>YOUR#</span>
-
-</code></pre>
+<pre><code class="language-bash"></code></pre>
 
 <blockquote>
 <p><i class="fa fa-terminal"></i> Type the following command to show services, deployment configs, build configurations, and active deployments (this will come in handy later):</p>
 </blockquote>
 
-<pre><code class="language-bash">$ oc status
-</code></pre>
+<pre><code class="language-bash"></code></pre>
 
 <h1 id="summary">Summary</h1>
 
@@ -492,12 +481,12 @@ function setupWorkshop() {
   <ul class="pager">
     
       <li class="previous">
-        <a href="https://fierce-hwx.endosys.io/workshops/hdp_101/login_tour_wetty/">&larr; Previous: Login Tour - Wetty</a>
+        <a href="https://fierce-hwx.endosys.io/workshops/hdf_101/lab1-welcome/">&larr; Previous: Lab 1 - Welcome</a>
       </li>
     
     
       <li class="next">
-        <a href="https://fierce-hwx.endosys.io/workshops/hdp_101/lab2-byodocker/">Next: Lab 2 - BYO Docker &rarr;</a>
+        <a href="https://fierce-hwx.endosys.io/workshops/data_science_101/lab2-nifi-data/">Next: Lab 2 - Loading Data with NiFi &rarr;</a>
       </li>
     
   </ul>
