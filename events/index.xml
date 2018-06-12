@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Fierce and HortonWorks</title>
-    <link>https://fierce-hwx.endosys.io/events/</link>
-    <description>Recent content in Events on Fierce and HortonWorks</description>
+    <title>Events on Hortonworks Workshops</title>
+    <link>/events/</link>
+    <description>Recent content in Events on Hortonworks Workshops</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fierce-hwx.endosys.io/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

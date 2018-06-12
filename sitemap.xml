@@ -3,185 +3,185 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/events/</loc>
+    <loc>/events/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/</loc>
+    <loc>/workshops/data_science_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>/workshops/hdf_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>/workshops/hdp_101/fin/</loc>
+  </url>
+  
+  <url>
+    <loc>/workshops/hdf_101/</loc>
+  </url>
+  
+  <url>
+    <loc>/workshops/hdp_101/</loc>
+  </url>
+  
+  <url>
+    <loc>/workshops/data_science_101/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/fin/</loc>
+    <loc>/workshops/data_science_101/lab1-welcome/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/fin/</loc>
+    <loc>/workshops/hdf_101/lab1-welcome/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/fin/</loc>
+    <loc>/workshops/hdp_101/lab1-welcome/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/</loc>
+    <loc>/workshops/data_science_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/</loc>
+    <loc>/workshops/hdf_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/</loc>
+    <loc>/workshops/hdp_101/lab2-nifi-data/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab1-welcome/</loc>
+    <loc>/workshops/data_science_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab1-welcome/</loc>
+    <loc>/workshops/hdf_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab1-welcome/</loc>
+    <loc>/workshops/hdp_101/lab3-nifi-fun/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab2-nifi-data/</loc>
+    <loc>/workshops/data_science_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab2-nifi-data/</loc>
+    <loc>/workshops/hdf_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab2-nifi-data/</loc>
+    <loc>/workshops/hdp_101/lab4-hdp-views/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab3-nifi-fun/</loc>
+    <loc>/workshops/data_science_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab3-nifi-fun/</loc>
+    <loc>/workshops/hdf_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab3-nifi-fun/</loc>
+    <loc>/workshops/hdp_101/lab5-hive/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab4-hdp-views/</loc>
+    <loc>/workshops/data_science_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab4-hdp-views/</loc>
+    <loc>/workshops/hdf_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab4-hdp-views/</loc>
+    <loc>/workshops/hdp_101/lab6-hbase/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab5-hive/</loc>
+    <loc>/workshops/data_science_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab5-hive/</loc>
+    <loc>/workshops/hdf_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab5-hive/</loc>
+    <loc>/workshops/hdp_101/lab7-ambari/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab6-hbase/</loc>
+    <loc>/workshops/data_science_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab6-hbase/</loc>
+    <loc>/workshops/hdf_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab6-hbase/</loc>
+    <loc>/workshops/hdp_101/lab8-yarn/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab7-ambari/</loc>
+    <loc>/workshops/data_science_101/lab9-hdfs/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab7-ambari/</loc>
+    <loc>/workshops/hdf_101/lab9-hdfs/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab7-ambari/</loc>
+    <loc>/workshops/hdp_101/lab9-hdfs/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab8-yarn/</loc>
+    <loc>/workshops/data_science_101/login_tour_wetty/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab8-yarn/</loc>
+    <loc>/workshops/hdf_101/login_tour_wetty/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab8-yarn/</loc>
+    <loc>/workshops/hdp_101/login_tour_wetty/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/lab9-hdfs/</loc>
+    <loc>/workshops/data_science_101/prerequisites/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/lab9-hdfs/</loc>
+    <loc>/workshops/hdf_101/prerequisites/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/lab9-hdfs/</loc>
+    <loc>/workshops/hdp_101/prerequisites/</loc>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/login_tour_wetty/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/login_tour_wetty/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/login_tour_wetty/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/data_science_101/prerequisites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdf_101/prerequisites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/hdp_101/prerequisites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/</loc>
+    <loc>/workshops/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fierce-hwx.endosys.io/workshops/</loc>
+    <loc>/workshops/</loc>
     <priority>0</priority>
   </url>
   

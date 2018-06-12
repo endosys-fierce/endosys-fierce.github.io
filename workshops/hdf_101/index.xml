@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HortonWorks Data Flow 101 on Fierce and HortonWorks</title>
-    <link>https://fierce-hwx.endosys.io/workshops/hdf_101/</link>
-    <description>Recent content in HortonWorks Data Flow 101 on Fierce and HortonWorks</description>
+    <title>HortonWorks Data Flow 101 on Hortonworks Workshops</title>
+    <link>/workshops/hdf_101/</link>
+    <description>Recent content in HortonWorks Data Flow 101 on Hortonworks Workshops</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fierce-hwx.endosys.io/workshops/hdf_101/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/workshops/hdf_101/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fin.</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/fin/</link>
+      <link>/workshops/hdf_101/fin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/fin/</guid>
+      <guid>/workshops/hdf_101/fin/</guid>
       <description>That&#39;s it! Get even deeper Download and explore more with the HDP Sandbox.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 1 - Welcome</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab1-welcome/</link>
+      <link>/workshops/hdf_101/lab1-welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab1-welcome/</guid>
+      <guid>/workshops/hdf_101/lab1-welcome/</guid>
       <description>Welcome to HortonWorks Data Platform! This lab provides a quick tour of the console to help you get familiar with the user interface along with some key terminology we will use in subsequent lab content. If you are already familiar with the basics of HDP simply ensure you can login.
 Key Terms We will be using the following terms throughout the workshop labs so here are some basic definitions you should be familiar with.</description>
     </item>
     
     <item>
       <title>Lab 2 - Loading Data with NiFi</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab2-nifi-data/</link>
+      <link>/workshops/hdf_101/lab2-nifi-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab2-nifi-data/</guid>
+      <guid>/workshops/hdf_101/lab2-nifi-data/</guid>
       <description>Loading data with NiFi It&#39;s easy to get started with NiFi. In this quick lab we will load data into our HDP with NiFi.
 Summary In this lab you&#39;ve logged into NiFi and loaded data into HDP.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 3 - Exploring NiFi</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab3-nifi-fun/</link>
+      <link>/workshops/hdf_101/lab3-nifi-fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab3-nifi-fun/</guid>
+      <guid>/workshops/hdf_101/lab3-nifi-fun/</guid>
       <description>Summary In this lab we had some fun with NiFi.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 4 - HDP Views</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab4-hdp-views/</link>
+      <link>/workshops/hdf_101/lab4-hdp-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab4-hdp-views/</guid>
+      <guid>/workshops/hdf_101/lab4-hdp-views/</guid>
       <description>Summary In this lab you&#39;ve seen how to explore the HDP.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 5 - Hive</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab5-hive/</link>
+      <link>/workshops/hdf_101/lab5-hive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab5-hive/</guid>
+      <guid>/workshops/hdf_101/lab5-hive/</guid>
       <description>Summary In this lab we saw how you can use Hive to explore the data in HDFS.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 6 - HBase</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab6-hbase/</link>
+      <link>/workshops/hdf_101/lab6-hbase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab6-hbase/</guid>
+      <guid>/workshops/hdf_101/lab6-hbase/</guid>
       <description>Summary In this lab we learned about HBase.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 7 - Ambari</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab7-ambari/</link>
+      <link>/workshops/hdf_101/lab7-ambari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab7-ambari/</guid>
+      <guid>/workshops/hdf_101/lab7-ambari/</guid>
       <description>Summary That&#39;s it for this lab. Now you know about how to examine the HDP cluster.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 8 - YARN</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab8-yarn/</link>
+      <link>/workshops/hdf_101/lab8-yarn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab8-yarn/</guid>
+      <guid>/workshops/hdf_101/lab8-yarn/</guid>
       <description>Summary In this lab you have explored the architecture of the HDP.
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Lab 9 - HDFS</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/lab9-hdfs/</link>
+      <link>/workshops/hdf_101/lab9-hdfs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/lab9-hdfs/</guid>
+      <guid>/workshops/hdf_101/lab9-hdfs/</guid>
       <description>Summary HDFS fun!
-function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
     <item>
       <title>Login Tour - Wetty</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/login_tour_wetty/</link>
+      <link>/workshops/hdf_101/login_tour_wetty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/login_tour_wetty/</guid>
+      <guid>/workshops/hdf_101/login_tour_wetty/</guid>
       <description>Introduction to Wetty (Browser-based SSH) This lab provides a quick tour of the browser based SSH client Wetty. To help you get familiar with lab environment along with some key terminology we will use in subsequent lab content.
 Accessing Wetty Use this URL to access the Wetty node, just change the workshopname. Ask your instructor for the workshopname.
 https://master.example.endosys.io:8888  Login Info login: userYOUR# Password: &amp;lt;Instructor Provided&amp;gt;  After logging in, you should see a shell.</description>
@@ -124,13 +124,13 @@ https://master.example.endosys.io:8888  Login Info login: userYOUR# Password: &a
     
     <item>
       <title>Verify Prerequisites</title>
-      <link>https://fierce-hwx.endosys.io/workshops/hdf_101/prerequisites/</link>
+      <link>/workshops/hdf_101/prerequisites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fierce-hwx.endosys.io/workshops/hdf_101/prerequisites/</guid>
+      <guid>/workshops/hdf_101/prerequisites/</guid>
       <description>Prerequisites  This workshop is done entierly through the browser, but you do need a free personal GitHub account.
  Create a Github account If you don&#39;t have a person GitHub account please sign up here to create a free account.
- Create GitHub Account Download Git Client (optional)  function replaceclasstext(cname,cvalue) { var x = document.getElementsByClassName(cname); var i; for (i = 0; i  Workshop Details   Student ID:  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50     Workshop:     endosys.</description>
+ Create GitHub Account Download Git Client (optional)   Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain endosys.</description>
     </item>
     
   </channel>
